@@ -3,3 +3,15 @@ Git - VCS, track the progress of the project,
 create local repository which is used to track the changes
 
 Github - git based system, implements vcs, store projects 
+
+// initialize 
+git init
+
+// add the files
+git add file_name (add single file)
+git add . (add multiple files)
+
+//commit
+git commit -m "meaning full messages"
+
+// add all the folders to git

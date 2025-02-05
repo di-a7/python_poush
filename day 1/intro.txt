@@ -1,0 +1,21 @@
+DAY 1
+# Programming Language
+- language used to communicate with computers
+
+# Python
+- Programming language
+ why python?
+ - easy understand
+ - interprated 
+ - can be used in advanced sectors
+
+# statement - block of code
+# Variable - container that store data
+# keyword - python defined
+# identifiers - user defiened words,
+
+# convensions of identifiers
+- should not stsrt with numbers
+- identifiers should not contain space
+- underscore can be used
+- keyword cant be used as indentifers
