@@ -1,0 +1,5 @@
+# Git and Github
+Git - VCS, track the progress of the project,
+create local repository which is used to track the changes
+
+Github - git based system, implements vcs, store projects 
