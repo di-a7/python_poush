@@ -15,3 +15,12 @@ git add . (add multiple files)
 git commit -m "meaning full messages"
 
 // add all the folders to git
+
+//check all the existing branch
+git branch
+
+//create new branch
+git branch new_branch_name
+
+// change the branch
+git checkout branch_name
