@@ -14,13 +14,17 @@ git add . (add multiple files)
 //commit
 git commit -m "meaning full messages"
 
-// add all the folders to git
-
 //check all the existing branch
 git branch
+
+//change the name of master branch
+git branch -M main
 
 //create new branch
 git branch new_branch_name
 
 // change the branch
 git checkout branch_name
+
+//merge
+git merge branch_name
